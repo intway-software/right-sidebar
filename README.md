@@ -14,10 +14,10 @@ A modern, responsive right-sidebar component built with Next.js, React, and Tail
 ## 📸 Screenshots
 
 ### Sidebar Closed
-![Sidebar Closed](https://raw.githubusercontent.com/intway-software/right-sidebar/main/public/placeholder-logo.png)
+![Sidebar Closed](https://raw.githubusercontent.com/intway-software/right-sidebar/main/images/img2.png)
 
 ### Sidebar Open
-![Sidebar Open](https://raw.githubusercontent.com/intway-software/right-sidebar/main/public/placeholder.jpg)
+![Sidebar Open](https://raw.githubusercontent.com/intway-software/right-sidebar/main/images/img1.png)
 
 ## 🛠️ How It Works
 
