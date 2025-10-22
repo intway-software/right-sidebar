@@ -2,6 +2,10 @@
 
 A modern, responsive right-sidebar component built with Next.js, React, and Tailwind CSS. This project demonstrates how to implement a sleek sidebar that slides in from the right side of the screen with smooth animations and a toggle button.
 
+## 🌐 Live Demo
+
+Check out the live demo: [https://v0-next-js-sidebar-with-lucid.vercel.app/](https://v0-next-js-sidebar-with-lucid.vercel.app/)
+
 ## 🚀 Features
 
 - **Smooth Animations**: CSS transitions for opening/closing the sidebar
